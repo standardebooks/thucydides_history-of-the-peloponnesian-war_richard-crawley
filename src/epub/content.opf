@@ -39,7 +39,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/7142</dc:source>
 		<dc:source>https://archive.org/details/pelocrawleyr00thucuoft</dc:source>
-		<meta property="se:production-notes">Long speeches and treaty contents were placed in blockquotes.</meta>
+		<meta property="se:production-notes">Long speeches and treaty contents were placed in blockquotes. The treaties are italicized in the scans; since they were moved to blockquotes, they were left as normal text in this edition.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_History_of_the_Peloponnesian_War</meta>
