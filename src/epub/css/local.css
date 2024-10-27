@@ -64,8 +64,19 @@ section[epub|type~="dedication"] > *{
 #chapter-14 blockquote:nth-of-type(4) > p:nth-child(3){
 	text-align: center;
 	text-indent: 0;
+}
 
 #chapter-16 blockquote blockquote {
 	font-variant: small-caps;
+}
+
+#illustration-2 figcaption header {
+	font-variant: small-caps;
+	margin-bottom: .5em;
+}
+
+#illustration-2 ol {
+	columns: 2;
+	list-style-type: upper-alpha;
 }
 /* end of custom */
