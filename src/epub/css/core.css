@@ -5,6 +5,7 @@ body{
 	font-variant-numeric: oldstyle-nums;
 	hyphens: auto;
 	-epub-hyphens: auto;
+	text-wrap: pretty;
 }
 
 p{
@@ -45,6 +46,32 @@ hgroup{
 	text-align: center;
 }
 
+/* simulate h3 in an hgroup */
+hgroup h2 + p{
+	font-size: 1.17em;
+}
+
+/* simulate h4 in an hgroup */
+hgroup h2 + p + p,
+hgroup h3 + p{
+	font-size: 1em;
+}
+
+/* simulate h5 in an hgroup */
+hgroup h2 + p + p + p,
+hgroup h3 + p + p,
+hgroup h4 + p{
+	font-size: .83em;
+}
+
+/* simulate h6 in an hgroup */
+hgroup h2 + p + p + p + p,
+hgroup h3 + p + p + p,
+hgroup h4 + p + p,
+hgroup h5 + p{
+	font-size: .67em;
+}
+
 hgroup > *{
 	font-weight: normal;
 	margin: 0;
@@ -52,6 +79,10 @@ hgroup > *{
 
 hgroup > *:first-child{
 	font-weight: bold;
+}
+
+hgroup > p{
+	text-indent: 0;
 }
 
 p.continued,
