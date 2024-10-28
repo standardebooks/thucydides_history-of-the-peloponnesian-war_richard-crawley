@@ -50,8 +50,8 @@ section[epub|type~="dedication"] > *{
 [epub|type~="z3998:hymn"] p > span,
 [epub|type~="z3998:verse"] p > span{
 	display: block;
-	text-indent: -1em;
 	padding-left: 1em;
+	text-indent: -1em;
 }
 
 [epub|type~="z3998:hymn"] p > span + br,
@@ -66,16 +66,16 @@ section[epub|type~="dedication"] > *{
 	text-indent: 0;
 }
 
-#chapter-16 blockquote blockquote {
+#chapter-16 blockquote blockquote{
 	font-variant: small-caps;
 }
 
-#illustration-2 figcaption header {
+#illustration-2 figcaption header{
 	font-variant: small-caps;
 	margin-bottom: .5em;
 }
 
-#illustration-2 ol {
+#illustration-2 ol{
 	columns: 2;
 	list-style-type: upper-alpha;
 }
