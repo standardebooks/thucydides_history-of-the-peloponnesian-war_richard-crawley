@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/thucydides/the-history-of-the-peloponnesian-war/richard-crawley</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/thucydides/history-of-the-peloponnesian-war/richard-crawley</dc:identifier>
 		<dc:date>1900-01-01T00:00:00Z</dc:date>
 		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
@@ -28,15 +28,15 @@
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.1 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
-		<dc:title id="title">The History of the Peloponnesian War</dc:title>
-		<meta property="file-as" refines="#title">History of the Peloponnesian War, The</meta>
+		<dc:title id="title">History of the Peloponnesian War</dc:title>
+		<meta property="file-as" refines="#title">History of the Peloponnesian War</meta>
 		<dc:subject id="subject-1">Greece -- History -- Peloponnesian War, 431-404 B.C.</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85057083</meta>
 		<meta property="se:subject">Nonfiction</meta>
 		<dc:description id="description">A history of the war between two leagues, led by Sparta and Athens respectively.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The History of the Peloponnesian War&lt;/i&gt; covers the events of the first twenty years of the late fifth-century BC war between two alliances led by Sparta and Athens. &lt;a href="https://standardebooks.org/ebooks/thucydides"&gt;Thucydides&lt;/a&gt;, an Athenian general in the war and thus a first-hand witness to many of its events, begins with his views on what led to the war, with the remainder of the book devoted to the events of the war itself. His history covers the first twenty of the twenty-seven years of the conflict, cutting off almost immediately after the devastating Athenian defeat at Syracuse.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;History of the Peloponnesian War&lt;/i&gt; covers the events of the first twenty years of the late fifth-century BC war between two alliances led by Sparta and Athens. &lt;a href="https://standardebooks.org/ebooks/thucydides"&gt;Thucydides&lt;/a&gt;, an Athenian general in the war and thus a first-hand witness to many of its events, begins with his views on what led to the war, with the remainder of the book devoted to the events of the war itself. His history covers the first twenty of the twenty-seven years of the conflict, cutting off almost immediately after the devastating Athenian defeat at Syracuse.&lt;/p&gt;
 			&lt;p&gt;Perhaps the most famous aspect of his history are the numerous speeches that are contained within it. Thucydides acknowledges that the speeches were often constructed from what he thought the occasion demanded, while trying to stick as closely as possible to what they actually said. Many of the speeches are the back and forth between two parties as they argue their respective cases before an administrative body, and they offer a fascinating view of different perspectives of the same set of events.&lt;/p&gt;
 			&lt;p&gt;Although Thucydides’ history came soon after &lt;a href="https://standardebooks.org/ebooks/herodotus"&gt;Herodotus’&lt;/a&gt;, it differs in significant ways. Thucydides makes no mention of the role of gods in any of the events he reports, and his history is chronological, with a sentence concluding the end of each campaign year. He also states that he sifted through differing versions of events to discern what actually happened, in an attempt to be unbiased in what he presented. He also focused solely on the events of the war, rather than also delve into the surrounding culture. For these reasons, he has been called the father of “scientific history.”&lt;/p&gt;
 		</meta>
@@ -47,7 +47,7 @@
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_History_of_the_Peloponnesian_War</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/thucydides_the-history-of-the-peloponnesian-war_richard-crawley</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/thucydides_history-of-the-peloponnesian-war_richard-crawley</meta>
 		<dc:creator id="author">Thucydides</dc:creator>
 		<meta property="file-as" refines="#author">Thucydides</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Thucydides</meta>
