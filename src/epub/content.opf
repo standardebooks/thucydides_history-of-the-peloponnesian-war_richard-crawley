@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/thucydides/history-of-the-peloponnesian-war/richard-crawley</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-10-29T21:18:47Z</dc:date>
+		<meta property="dcterms:modified">2024-10-29T21:18:47Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -34,18 +34,17 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85057083</meta>
 		<meta property="se:subject">Nonfiction</meta>
-		<dc:description id="description">A history of the war between two leagues, led by Sparta and Athens respectively.</dc:description>
+		<dc:description id="description">A contemporary history of the ancient Greek war between Athens and Sparta and their allies.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;History of the Peloponnesian War&lt;/i&gt; covers the events of the first twenty years of the late fifth-century BC war between two alliances led by Sparta and Athens. &lt;a href="https://standardebooks.org/ebooks/thucydides"&gt;Thucydides&lt;/a&gt;, an Athenian general in the war and thus a first-hand witness to many of its events, begins with his views on what led to the war, with the remainder of the book devoted to the events of the war itself. His history covers the first twenty of the twenty-seven years of the conflict, cutting off almost immediately after the devastating Athenian defeat at Syracuse.&lt;/p&gt;
-			&lt;p&gt;Perhaps the most famous aspect of his history are the numerous speeches that are contained within it. Thucydides acknowledges that the speeches were often constructed from what he thought the occasion demanded, while trying to stick as closely as possible to what they actually said. Many of the speeches are the back and forth between two parties as they argue their respective cases before an administrative body, and they offer a fascinating view of different perspectives of the same set of events.&lt;/p&gt;
-			&lt;p&gt;Although Thucydides’ history came soon after &lt;a href="https://standardebooks.org/ebooks/herodotus"&gt;Herodotus’&lt;/a&gt;, it differs in significant ways. Thucydides makes no mention of the role of gods in any of the events he reports, and his history is chronological, with a sentence concluding the end of each campaign year. He also states that he sifted through differing versions of events to discern what actually happened, in an attempt to be unbiased in what he presented. He also focused solely on the events of the war, rather than also delve into the surrounding culture. For these reasons, he has been called the father of “scientific history.”&lt;/p&gt;
+			&lt;p&gt;Perhaps the most famous aspect of his history are the numerous speeches it contains. Thucydides acknowledges that they were often reconstructed from what he thought the occasion demanded, while trying to stick as closely as possible to what was actually said. Many of the speeches are the back and forth between two parties as they argue their respective cases before an administrative body, and they offer a fascinating view of different perspectives of the same set of events.&lt;/p&gt;
+			&lt;p&gt;Although Thucydides’ history came soon after &lt;a href="https://standardebooks.org/ebooks/herodotus"&gt;Herodotus’&lt;/a&gt;, it differs in significant ways. Thucydides makes no mention of the role of gods in any of the events he reports, and his history is chronological, with a sentence concluding the end of each campaign year. He also states that he sifted through differing versions of events to discern what actually happened, in an attempt to be unbiased in what he presented. He also focused solely on the events of the war, rather than also delve into the surrounding culture. For these reasons, he has been called “the father of scientific history.”&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/7142</dc:source>
 		<dc:source>https://archive.org/details/pelocrawleyr00thucuoft</dc:source>
-		<meta property="se:production-notes">Long speeches and treaty contents were placed in blockquotes. The treaties are italicized in the scans; since they were moved to blockquotes, they were left as normal text in this edition.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">204889</meta>
+		<meta property="se:reading-ease.flesch">39.34</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/History_of_the_Peloponnesian_War</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/thucydides_history-of-the-peloponnesian-war_richard-crawley</meta>
 		<dc:creator id="author">Thucydides</dc:creator>
@@ -80,6 +79,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">wat</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
