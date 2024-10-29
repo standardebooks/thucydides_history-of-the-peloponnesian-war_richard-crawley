@@ -43,6 +43,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/7142</dc:source>
 		<dc:source>https://archive.org/details/pelocrawleyr00thucuoft</dc:source>
+		<meta property="se:production-notes">There is no LoI because the `Plans` section is effectively its own LoI.</meta>
 		<meta property="se:word-count">204889</meta>
 		<meta property="se:reading-ease.flesch">39.34</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/History_of_the_Peloponnesian_War</meta>
