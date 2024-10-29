@@ -46,11 +46,12 @@
 		<meta property="se:production-notes">Long speeches and treaty contents were placed in blockquotes. The treaties are italicized in the scans; since they were moved to blockquotes, they were left as normal text in this edition.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_History_of_the_Peloponnesian_War</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/History_of_the_Peloponnesian_War</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/thucydides_history-of-the-peloponnesian-war_richard-crawley</meta>
 		<dc:creator id="author">Thucydides</dc:creator>
 		<meta property="file-as" refines="#author">Thucydides</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Thucydides</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79021175</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">Richard Crawley</dc:contributor>
 		<meta property="file-as" refines="#translator">Crawley, Richard</meta>
