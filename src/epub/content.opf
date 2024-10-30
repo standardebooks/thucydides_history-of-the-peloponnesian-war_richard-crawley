@@ -34,6 +34,8 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85057083</meta>
 		<meta property="se:subject">Nonfiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">A contemporary history of the ancient Greek war between Athens and Sparta and their allies.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;History of the Peloponnesian War&lt;/i&gt; covers the events of the first twenty years of the late fifth-century BC war between two alliances led by Sparta and Athens. &lt;a href="https://standardebooks.org/ebooks/thucydides"&gt;Thucydides&lt;/a&gt;, an Athenian general in the war and thus a first-hand witness to many of its events, begins with his views on what led to the war, with the remainder of the book devoted to the events of the war itself. His history covers the first twenty of the twenty-seven years of the conflict, cutting off almost immediately after the devastating Athenian defeat at Syracuse.&lt;/p&gt;
