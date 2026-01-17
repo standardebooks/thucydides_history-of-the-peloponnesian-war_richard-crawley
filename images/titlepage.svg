@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 690">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 790">
 	<title>The titlepage for the Standard Ebooks edition of History of the Peloponnesian War, by Thucydides. Translated by Richard Crawley</title>
 	<style type="text/css">
 		text{
@@ -28,8 +28,9 @@
 		}
 	</style>
 	<text class="title" x="700" y="130">HISTORY OF THE</text>
-	<text class="title" x="700" y="230">PELOPONNESIAN WAR</text>
-	<text class="author" x="700" y="390">THUCYDIDES</text>
-	<text class="contributor-descriptor" x="700" y="580">translated by</text>
-	<text class="contributor" x="700" y="640">RICHARD CRAWLEY</text>
+	<text class="title" x="700" y="230">PELOPONNESIAN</text>
+	<text class="title" x="700" y="330">WAR</text>
+	<text class="author" x="700" y="490">THUCYDIDES</text>
+	<text class="contributor-descriptor" x="700" y="680">translated by</text>
+	<text class="contributor" x="700" y="740">RICHARD CRAWLEY</text>
 </svg>
